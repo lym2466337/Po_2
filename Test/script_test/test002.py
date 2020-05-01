@@ -40,4 +40,4 @@ def get_xpaths(loc):
 
 print(get_xpaths(["text,设置,0","text,设置,1","text,设置,1"]))
 print("xxxx")
-print("yyyyyyyyyyy")
+print("yyyyyyy")
