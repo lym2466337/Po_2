@@ -1,0 +1,10 @@
+Data:
+  search_001: #用例编号
+    test: 1
+    name: xxx
+  search_002: #用例编号
+    test: 中文
+    name: xxxx
+  search_003: #用例编号
+    test: ?……&
+    name: xxx
